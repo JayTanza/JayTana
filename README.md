@@ -1,2 +1,2 @@
-# JayTana
-EngineeringStudent
+# Jay Michael Tanza
+Engineering Student
